@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587819245835.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1157031634",
+    "id" : "D455FFE0",
+    "lastKnownWriteTime" : 1586947257,
+    "last_content_update" : 1586947257,
+    "path" : "Z:/jhenck/sin_cell_seq/src_monocle3/diff_cellcomp_JH.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
